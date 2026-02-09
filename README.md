@@ -1,54 +1,60 @@
-<h1 align="center">👋 Olá, eu sou o Francisco Dias</h1>
+# Olá, eu sou o Francisco Macedo! 👋
 
-<p align="center">
-  <strong>Web Developer</strong> focado em criar experiências web modernas, responsivas e funcionais.
-</p>
+### Game Designer | Full-Stack Developer | Creative Thinker
 
-<p align="center">
-  <a href="https://franciscomacedo.pt/">🌐 franciscomacedo.pt</a> |
-  <a href="https://github.com/franciscoIPCA">💻 GitHub</a>
-</p>
+Transformo ideias complexas em experiências interativas. Com um pé no **Design de Jogos** e outro no **Desenvolvimento Web**, foco-me em criar soluções que sejam funcionalmente robustas e visualmente impactantes.
 
 ---
 
-### 🚀 Sobre mim
+## 🚀 Sobre Mim
 
-Sou um **desenvolvedor web apaixonado por tecnologia, design e código limpo**. Tenho experiência com desenvolvimento de interfaces interativas e projetos front-end que combinam **simplicidade, performance e usabilidade**. Atualmente vivo em **Braga, Portugal** e estou sempre à procura de novos desafios e colaborações criativas. :contentReference[oaicite:2]{index=2}
+Atualmente a frequentar o curso de **Design de Jogos Digitais** no IPCA, procuro constantemente a interseção entre a arte e o código. O meu trabalho reflete a minha paixão por resolver problemas reais através de tecnologia moderna e design centrado no utilizador.
 
----
-
-### 💡 Skills & Tecnologias
-
-💻 **Principais linguagens & frameworks**  
-HTML • CSS • JavaScript • TypeScript • Angular • React *(ou outras que usares)*
-
-🛠 **Ferramentas & técnicas**  
-Responsive Design • Git & GitHub • APIs • Web Performance
-
-💡 **Soft Skills**  
-Colaboração • Comunicação • Resolução de Problemas • Vontade de Aprender
+* 🌍 Baseado em Portugal.
+* 🎓 Estudante de Design de Jogos Digitais no IPCA.
+* 🛠️ Focado em criar experiências imersivas, desde a mecânica de jogo ao frontend web.
+* 🎨 Defensor de que "bom design é invisível".
 
 ---
 
-### 📂 Destaque de Repositórios
+## 🛠️ Stack Tecnológica
 
-Aqui estão alguns projetos que mostram o meu trabalho:
-
-| Repositório | Descrição |
-|-------------|-----------|
-| **formationhtml** | Coleção de exercícios e formação em HTML |
-| **TKTlevraie** | Projeto em HTML com estrutura web |
-| **Super-Mercado** | Exemplo de interface/site para supermercado |
-
-*Consulta o meu perfil para ver mais projetos.* 💼
+| Área | Tecnologias |
+| :--- | :--- |
+| **Development** | C#, JavaScript, PHP, SQL |
+| **Web & Frameworks** | React, Node.js, HTML5/CSS3 |
+| **Game Dev** | Unity, Game Design Documentation |
+| **Design** | Adobe Suite, UI/UX Prototyping |
 
 ---
 
-### 📬 Contactos
+## 📁 Projetos em Destaque
 
-📫Obrigado por visitar o meu GitHub! Sente-te à vontade para entrar em contacto:  
-✉️ **Email:** geral@franciscomacedo.com *(ou o teu contacto preferido)* :contentReference[oaicite:3]{index=3}
+### [Portfolio Pessoal](http://franciscomacedo.pt/)
+Uma montra interativa de todos os meus trabalhos, onde podes explorar os meus projetos de design, desenvolvimento e pensamento criativo.
+
+### [Repositórios GitHub](https://github.com/franciscoIPCA)
+Aqui encontras os meus projetos académicos e experimentais, focados em:
+* Mecânicas de jogo em Unity/C#.
+* Estruturas de bases de dados e sistemas web.
+* Algoritmos e lógica de programação.
 
 ---
 
-<p align="center">✨ Sempre a aprender e construir — obrigado pela visita! ✨</p>
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do Francisco](https://github-readme-stats.vercel.app/api?username=franciscoIPCA&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoIPCA&layout=compact&theme=radical)
+
+---
+
+## 📫 Vamos conversar?
+
+Estou sempre aberto a colaborações em projetos de Game Dev ou Web Development.
+
+* **Website:** [franciscomacedo.pt](http://franciscomacedo.pt/)
+* **LinkedIn:** [O teu link aqui]
+* **Email:** [O teu email aqui]
+
+---
+"The goal is to turn data into information, and information into insight."
