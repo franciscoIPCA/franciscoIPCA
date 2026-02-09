@@ -6,7 +6,7 @@
 **Full-Stack Developer | UI/UX Designer | Software Enthusiast**
 
 [![Website](https://img.shields.io/badge/Portfolio-franciscomacedo.pt-blue?style=for-the-badge&logo=opera)](http://franciscomacedo.pt/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](TEU_LINK_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([TEU_LINK_LINKEDIN](https://www.linkedin.com/in/francisco03102002/))
 
 ---
 
