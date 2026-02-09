@@ -1,60 +1,66 @@
-# Olá, eu sou o Francisco Macedo! 👋
+<div align="center">
 
-### Game Designer | Full-Stack Developer | Creative Thinker
+<img src="teu-caminho-para-a-imagem/banner.png" alt="Francisco Macedo Banner" width="100%">
 
-Transformo ideias complexas em experiências interativas. Com um pé no **Design de Jogos** e outro no **Desenvolvimento Web**, foco-me em criar soluções que sejam funcionalmente robustas e visualmente impactantes.
+# 🕹️ Francisco Macedo
+**Full-Stack Developer**
 
----
-
-## 🚀 Sobre Mim
-
-Atualmente a frequentar o curso de **Design de Jogos Digitais** no IPCA, procuro constantemente a interseção entre a arte e o código. O meu trabalho reflete a minha paixão por resolver problemas reais através de tecnologia moderna e design centrado no utilizador.
-
-* 🌍 Baseado em Portugal.
-* 🎓 Estudante de Design de Jogos Digitais no IPCA.
-* 🛠️ Focado em criar experiências imersivas, desde a mecânica de jogo ao frontend web.
-* 🎨 Defensor de que "bom design é invisível".
+[![Website](https://img.shields.io/badge/Portfolio-franciscomacedo.pt-blue?style=for-the-badge&logo=opera)](http://franciscomacedo.pt/)
+[![GitHub](https://img.shields.io/badge/GitHub-franciscoIPCA-lightgrey?style=for-the-badge&logo=github)](https://github.com/franciscoIPCA)
 
 ---
 
-## 🛠️ Stack Tecnológica
+</div>
 
-| Área | Tecnologias |
-| :--- | :--- |
-| **Development** | C#, JavaScript, PHP, SQL |
-| **Web & Frameworks** | React, Node.js, HTML5/CSS3 |
-| **Game Dev** | Unity, Game Design Documentation |
-| **Design** | Adobe Suite, UI/UX Prototyping |
+## 🧬 Sobre Mim
+Estudante de **Design de Jogos Digitais no IPCA**. Foco a minha energia na criação de experiências interativas onde a lógica do código encontra a estética do design. 
 
----
-
-## 📁 Projetos em Destaque
-
-### [Portfolio Pessoal](http://franciscomacedo.pt/)
-Uma montra interativa de todos os meus trabalhos, onde podes explorar os meus projetos de design, desenvolvimento e pensamento criativo.
-
-### [Repositórios GitHub](https://github.com/franciscoIPCA)
-Aqui encontras os meus projetos académicos e experimentais, focados em:
-* Mecânicas de jogo em Unity/C#.
-* Estruturas de bases de dados e sistemas web.
-* Algoritmos e lógica de programação.
+* 📍 Braga | Portugal
+* 🎓 IPCA - Desenvolvimento Web e Multimédia
+* 💡 Full Stack Developer
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🛠️ Tech Stack & Skills
 
-![Estatísticas do Francisco](https://github-readme-stats.vercel.app/api?username=franciscoIPCA&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoIPCA&layout=compact&theme=radical)
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎮 Game Dev</h3>
+      <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity" alt="Unity" />
+      <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp" alt="C#" />
+    </td>
+    <td align="center" width="33%">
+      <h3>💻 Web Dev</h3>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node" />
+      <img src="https://img.shields.io/badge/SQL-CC0000?style=flat-square&logo=postgresql" alt="SQL" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🎨 Design</h3>
+      <img src="https://img.shields.io/badge/Adobe%20Suite-FF0000?style=flat-square&logo=adobe" alt="Adobe" />
+      <img src="https://img.shields.io/badge/UI%2FUX-blue?style=flat-square" alt="UIUX" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Vamos conversar?
-
-Estou sempre aberto a colaborações em projetos de Game Dev ou Web Development.
-
-* **Website:** [franciscomacedo.pt](http://franciscomacedo.pt/)
-* **LinkedIn:** [O teu link aqui]
-* **Email:** [O teu email aqui]
+## 📊 GitHub Insights
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscoIPCA&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoIPCA&layout=compact&theme=radical"/>
+</div>
 
 ---
-"The goal is to turn data into information, and information into insight."
+
+## 🚀 Projetos em Destaque
+* 🌐 **[Portfolio](http://franciscomacedo.pt/)**: Um hub central para todos os meus projetos e currículo.
+* 🕹️ **Projetos IPCA**: Explora os meus repositórios para ver protótipos de jogos e implementações em C#.
+
+---
+
+<div align="center">
+  <p>"Transforming data into insight and ideas into play."</p>
+  <sub>📫 Contacto: francisco.dias.aragon@gmail.com</sub>
+</div>
