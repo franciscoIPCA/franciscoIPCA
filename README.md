@@ -1,69 +1,57 @@
+# Francisco Dias
+**Full-Stack Developer | Braga, Portugal**
+
+[cite_start]Desenvolvedor Full-Stack focado na criação de ecossistemas digitais escaláveis e interfaces intuitivas[cite: 3, 4]. [cite_start]Com experiência sólida no ciclo completo de desenvolvimento de software, desde a conceção visual no Figma até à implementação técnica e DevOps[cite: 28, 29, 30].
+
+[**Portfolio**](http://franciscomacedo.pt/) • [**LinkedIn**](https://www.linkedin.com/in/francisco03102002/) • [**Email**](mailto:francisco.dias.aragon@gmail.com)
+
+---
+
+### 🛠️ Competências Técnicas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+* [cite_start]**Frontend:** Angular, React, TypeScript, Tailwind CSS, SCSS/SASS[cite: 17].
+* [cite_start]**Backend:** Node.js, Axios, Socket.io[cite: 17, 33, 61].
+* [cite_start]**Databases & Tools:** PostgreSQL, MongoDB, GitHub/GitLab, Postman, Swagger[cite: 18, 34, 35].
+* [cite_start]**Metodologias:** Praticante de Scrum e Agile[cite: 19, 36].
+
+---
+
+### 💼 Experiência Profissional
+
+[cite_start]**Grupo Érre – Érre Technology** [cite: 25]  
+[cite_start]*Full-Stack Developer (Fev 2023 – Presente)* [cite: 27, 75]
+
+* [cite_start]**Sistemas de Alta Performance:** Desenvolvimento das WebApps **GRIP** (SRO/Rotax) utilizando Angular, React, Canvas e integração de pagamentos via Stripe[cite: 57, 61].
+* [cite_start]**Ecossistemas Empresariais:** Implementação do ecossistema **Fão** (Hub, Flow, Sales, Perform) com foco em React, Tailwind e contentorização com Docker[cite: 64, 71].
+* [cite_start]**Desenvolvimento Front-end & UI/UX:** Responsável pelo front-end e web design de diversos projetos, utilizando Figma para prototipagem e Angular para desenvolvimento[cite: 28, 29, 30, 31].
+
+---
+
+### 🎓 Formação
+
+* **Desenvolvimento Web e Multimédia (DWM-PL)** | [cite_start]IPCA [cite: 9, 10]
+* **STI2D (Sciences et technologies de l'industrie)** | [cite_start]Lycée Aragon Picasso – Lyon, França [cite: 6, 7]
+
+---
+
+### 📊 GitHub Activity
+
 <div align="center">
-
-<img src="teu-caminho-para-a-imagem/banner.png" alt="Francisco Macedo Banner" width="100%">
-
-# 💻 Francisco Macedo
-**Full-Stack Developer | UI/UX Designer | Software Enthusiast**
-
-[![Website](https://img.shields.io/badge/Portfolio-franciscomacedo.pt-blue?style=for-the-badge&logo=opera)](http://franciscomacedo.pt/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([TEU_LINK_LINKEDIN](https://www.linkedin.com/in/francisco03102002/))
-
----
-
-</div>
-
-## 🚀 Sobre Mim
-Sou um desenvolvedor focado em criar soluções digitais completas, desde a arquitetura do base de dados até à interface final do utilizador. O meu percurso no **IPCA** permitiu-me desenvolver uma base sólida em engenharia de software, sempre com a preocupação de entregar produtos visualmente apelativos e intuitivos.
-
-* 🌍 Baseado em Portugal.
-* 🎓 Estudante no IPCA (Tecnologias de Desenvolvimento Web / Engenharia).
-* 🛠️ Especialista em transformar requisitos de negócio em código eficiente.
-* 🎨 Apaixonado por interfaces limpas e performance.
-
----
-
-## 🛠️ Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🌐 Frontend</h3>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5" />
-    </td>
-    <td align="center" width="33%">
-      <h3>⚙️ Backend</h3>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🖌️ Design & Tools</h3>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma" />
-      <img src="https://img.shields.io/badge/Adobe%20Suite-FF0000?style=flat-square&logo=adobe" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscoIPCA&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoIPCA&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscoIPCA&show_icons=true&theme=greyscale&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoIPCA&layout=compact&theme=greyscale&hide_border=true" />
 </div>
 
 ---
-
-## 📂 Projetos em Destaque
-* 🖥️ **[Portfólio Pessoal](http://franciscomacedo.pt/)**: Onde apresento as minhas competências e projetos realizados.
-* 💡 **Desenvolvimento Web**: Consulta os meus repositórios para veres implementações de CRUDs, APIs e interfaces dinâmicas.
-
----
-
 <div align="center">
-  <p>"Clean code always looks like it was written by someone who cares."</p>
-  <sub>📫 Contacto: francisco.dias.aragon@gmail.com </sub>
+  <sub>Português (B2) | Francês (B2) | [cite_start]Inglês (B1)</sub> [cite: 14, 15]
 </div>
