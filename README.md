@@ -1,57 +1,81 @@
+<div align="center">
+
 # Francisco Dias
-**Full-Stack Developer | Braga, Portugal**
+**Full-Stack Developer | UI/UX Designer**
 
-[cite_start]Desenvolvedor Full-Stack focado na criação de ecossistemas digitais escaláveis e interfaces intuitivas[cite: 3, 4]. [cite_start]Com experiência sólida no ciclo completo de desenvolvimento de software, desde a conceção visual no Figma até à implementação técnica e DevOps[cite: 28, 29, 30].
-
-[**Portfolio**](http://franciscomacedo.pt/) • [**LinkedIn**](https://www.linkedin.com/in/francisco03102002/) • [**Email**](mailto:francisco.dias.aragon@gmail.com)
-
----
-
-### 🛠️ Competências Técnicas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-* [cite_start]**Frontend:** Angular, React, TypeScript, Tailwind CSS, SCSS/SASS[cite: 17].
-* [cite_start]**Backend:** Node.js, Axios, Socket.io[cite: 17, 33, 61].
-* [cite_start]**Databases & Tools:** PostgreSQL, MongoDB, GitHub/GitLab, Postman, Swagger[cite: 18, 34, 35].
-* [cite_start]**Metodologias:** Praticante de Scrum e Agile[cite: 19, 36].
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco03102002/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opera&logoColor=white)](http://franciscomacedo.pt/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco.dias.aragon@gmail.com)
 
 ---
 
-### 💼 Experiência Profissional
+### "Especialista em arquitetura de interfaces modernas e sistemas escaláveis."
 
-[cite_start]**Grupo Érre – Érre Technology** [cite: 25]  
-[cite_start]*Full-Stack Developer (Fev 2023 – Presente)* [cite: 27, 75]
+</div>
 
-* [cite_start]**Sistemas de Alta Performance:** Desenvolvimento das WebApps **GRIP** (SRO/Rotax) utilizando Angular, React, Canvas e integração de pagamentos via Stripe[cite: 57, 61].
-* [cite_start]**Ecossistemas Empresariais:** Implementação do ecossistema **Fão** (Hub, Flow, Sales, Perform) com foco em React, Tailwind e contentorização com Docker[cite: 64, 71].
-* [cite_start]**Desenvolvimento Front-end & UI/UX:** Responsável pelo front-end e web design de diversos projetos, utilizando Figma para prototipagem e Angular para desenvolvimento[cite: 28, 29, 30, 31].
+## 📑 Perfil Profissional
+[cite_start]Desenvolvedor Full-Stack com 23 anos, residente em Braga[cite: 4, 23]. [cite_start]Foco-me em criar experiências digitais completas, desde a prototipagem de alta fidelidade até ao deploy de aplicações robustas[cite: 4, 5]. [cite_start]Atualmente, integro a equipa da **Érre Technology**, onde lidero o desenvolvimento front-end de plataformas críticas[cite: 25, 28].
 
 ---
 
-### 🎓 Formação
+## 🛠️ Stack Tecnológica
 
-* **Desenvolvimento Web e Multimédia (DWM-PL)** | [cite_start]IPCA [cite: 9, 10]
-* **STI2D (Sciences et technologies de l'industrie)** | [cite_start]Lycée Aragon Picasso – Lyon, França [cite: 6, 7]
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      **Frontend & Design**
+    </td>
+    <td align="center" width="50%">
+      **Backend & Infrastructure**
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Angular-000000?style=flat&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Activity
+## 🚀 Experiência de Destaque
+
+### [cite_start]**Grupo Érre – Érre Technology** [cite: 25]
+*Full-Stack Developer | Fev 2023 – Presente* [cite: 27, 56]
+
+* [cite_start]**GRIP (SRO / ROTAX):** Desenvolvimento de WebApps de alta complexidade com **Angular**, **React** e **Canvas**, integrando pagamentos via **Stripe** e comunicação em tempo real com **Socket.io**[cite: 57, 61].
+* [cite_start]**Ecossistema Fão:** Implementação de uma suite de 7 aplicações (Hub, Flow, Sales, etc.) utilizando **Vite**, **Tailwind** e **Docker** para garantir escalabilidade[cite: 64, 71].
+* [cite_start]**Liderança Técnica:** Responsável pela arquitetura front-end e web design (Figma), assegurando a qualidade através de metodologias **Scrum/Agile**[cite: 28, 30, 36].
+
+---
+
+## 🎓 Formação & Idiomas
+* **Desenvolvimento Web e Multimédia (DWM-PL)** | [cite_start]IPCA (2021-2023) [cite: 8, 12]
+* **STI2D (Sciences et technologies de l'industrie)** | [cite_start]Lyon, França [cite: 7]
+* **Idiomas:** Português (B2) | Francês (B2) | [cite_start]Inglês (B1) [cite: 14, 15]
+
+---
+
+## 📊 Performance no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscoIPCA&show_icons=true&theme=greyscale&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoIPCA&layout=compact&theme=greyscale&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=franciscoIPCA&show_icons=true&theme=omni&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoIPCA&layout=compact&theme=omni&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff" />
 </div>
 
 ---
+
 <div align="center">
-  <sub>Português (B2) | Francês (B2) | [cite_start]Inglês (B1)</sub> [cite: 14, 15]
+  <sub>"Clean code always looks like it was written by someone who cares."</sub>
 </div>
