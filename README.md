@@ -14,7 +14,7 @@
 </div>
 
 ## 📑 Perfil Profissional
-[cite_start]Desenvolvedor Full-Stack com 23 anos, residente em Braga[cite: 4, 23]. [cite_start]Foco-me em criar experiências digitais completas, desde a prototipagem de alta fidelidade até ao deploy de aplicações robustas[cite: 4, 5]. [cite_start]Atualmente, integro a equipa da **Érre Technology**, onde lidero o desenvolvimento front-end de plataformas críticas[cite: 25, 28].
+Desenvolvedor Full-Stack com 23 anos, residente em Braga. Foco-me em criar experiências digitais completas, desde a prototipagem de alta fidelidade até ao deploy de aplicações robustas. Atualmente, integro a equipa da **Érre Technology**, onde lidero o desenvolvimento front-end de plataformas críticas.
 
 ---
 
@@ -51,19 +51,19 @@
 
 ## 🚀 Experiência de Destaque
 
-### [cite_start]**Grupo Érre – Érre Technology** [cite: 25]
-*Full-Stack Developer | Fev 2023 – Presente* [cite: 27, 56]
+### **Grupo Érre – Érre Technology** 
+*Full-Stack Developer | Fev 2023 – Presente* 
 
-* [cite_start]**GRIP (SRO / ROTAX):** Desenvolvimento de WebApps de alta complexidade com **Angular**, **React** e **Canvas**, integrando pagamentos via **Stripe** e comunicação em tempo real com **Socket.io**[cite: 57, 61].
-* [cite_start]**Ecossistema Fão:** Implementação de uma suite de 7 aplicações (Hub, Flow, Sales, etc.) utilizando **Vite**, **Tailwind** e **Docker** para garantir escalabilidade[cite: 64, 71].
-* [cite_start]**Liderança Técnica:** Responsável pela arquitetura front-end e web design (Figma), assegurando a qualidade através de metodologias **Scrum/Agile**[cite: 28, 30, 36].
+* **GRIP (SRO / ROTAX):** Desenvolvimento de WebApps de alta complexidade com **Angular**, **React** e **Canvas**, integrando pagamentos via **Stripe** e comunicação em tempo real com **Socket.io**.
+* **Ecossistema Fão:** Implementação de uma suite de 7 aplicações (Hub, Flow, Sales, etc.) utilizando **Vite**, **Tailwind** e **Docker** para garantir escalabilidade.
+* **Liderança Técnica:** Responsável pela arquitetura front-end e web design (Figma), assegurando a qualidade através de metodologias **Scrum/Agile**.
 
 ---
 
 ## 🎓 Formação & Idiomas
-* **Desenvolvimento Web e Multimédia (DWM-PL)** | [cite_start]IPCA (2021-2023) [cite: 8, 12]
-* **STI2D (Sciences et technologies de l'industrie)** | [cite_start]Lyon, França [cite: 7]
-* **Idiomas:** Português (B2) | Francês (B2) | [cite_start]Inglês (B1) [cite: 14, 15]
+* **Desenvolvimento Web e Multimédia (DWM-PL)** | IPCA (2021-2023)
+* **STI2D (Sciences et technologies de l'industrie)** | Lyon, França
+* **Idiomas:** Português (B2) | Francês (B2) | Inglês (B1) 
 
 ---
 
