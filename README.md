@@ -21,7 +21,7 @@
 
 ## <img src="https://api.iconify.design/lucide/user-round.svg?color=%238b949e" width="22" height="22" alt=""> Sobre
 
-Desenvolvedor Full-Stack com 23 anos, baseado em Braga. Crio experiências digitais completas — da prototipagem de alta fidelidade ao deploy de aplicações robustas em produção.
+Desenvolvedor Full-Stack com 24 anos, baseado em Braga. Crio experiências digitais completas — da prototipagem de alta fidelidade ao deploy de aplicações robustas em produção.
 
 Atualmente integro a equipa da **Érre Technology**, onde lidero o desenvolvimento front-end de plataformas críticas para o negócio.
 
