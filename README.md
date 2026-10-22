@@ -1,81 +1,114 @@
 <div align="center">
 
 # Francisco Dias
-**Full-Stack Developer | UI/UX Designer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco03102002/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opera&logoColor=white)](http://franciscomacedodias.com/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco.dias.aragon@gmail.com)
+**Full-Stack Developer · UI/UX Designer**<br>
+<sub>Braga, Portugal · Érre Technology</sub>
 
----
+<br>
 
-### "Especialista em arquitetura de interfaces modernas e sistemas escaláveis."
+<a href="https://www.linkedin.com/in/francisco03102002/"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="http://franciscomacedodias.com/"><img src="https://img.shields.io/badge/Portfólio-18181B?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
+<a href="mailto:francisco.dias.aragon@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+
+<br>
+
+*Especialista em arquitetura de interfaces modernas e sistemas escaláveis.*
 
 </div>
 
-## 📑 Perfil Profissional
-Desenvolvedor Full-Stack com 23 anos, residente em Braga. Foco-me em criar experiências digitais completas, desde a prototipagem de alta fidelidade até ao deploy de aplicações robustas. Atualmente, integro a equipa da **Érre Technology**, onde lidero o desenvolvimento front-end de plataformas críticas.
+<br>
 
----
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%238b949e" width="22" height="22" alt=""> Sobre
 
-## 🛠️ Stack Tecnológica
+Desenvolvedor Full-Stack com 23 anos, baseado em Braga. Crio experiências digitais completas — da prototipagem de alta fidelidade ao deploy de aplicações robustas em produção.
 
-<table align="center">
+Atualmente integro a equipa da **Érre Technology**, onde lidero o desenvolvimento front-end de plataformas críticas para o negócio.
+
+<br>
+
+## <img src="https://api.iconify.design/lucide/layers-3.svg?color=%238b949e" width="22" height="22" alt=""> Stack
+
+<table>
   <tr>
-    <td align="center" width="50%">
-      **Frontend & Design**
-    </td>
-    <td align="center" width="50%">
-      **Backend & Infrastructure**
-    </td>
+    <th align="left" width="50%">Frontend &amp; Design</th>
+    <th align="left" width="50%">Backend &amp; Infraestrutura</th>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Angular-000000?style=flat&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white" />
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular,react,ts,vite,tailwind,figma&theme=dark">
+        <img src="https://skillicons.dev/icons?i=angular,react,ts,vite,tailwind,figma&theme=light" alt="Angular, React, TypeScript, Vite, Tailwind CSS, Figma">
+      </picture>
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white" />
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,docker,git&theme=dark">
+        <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,docker,git&theme=light" alt="Node.js, PostgreSQL, MongoDB, Docker, Git">
+      </picture>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-## 🚀 Experiência de Destaque
+## <img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%238b949e" width="22" height="22" alt=""> Experiência
 
-### **Grupo Érre – Érre Technology** 
-*Full-Stack Developer | Fev 2023 – Presente* 
+### <img src="https://api.iconify.design/lucide/building-2.svg?color=%238b949e" width="18" height="18" alt=""> Érre Technology &nbsp;·&nbsp; Grupo Érre
+**Full-Stack Developer** &nbsp;|&nbsp; Fev 2023 – Presente
 
-* **GRIP (SRO / ROTAX):** Desenvolvimento de WebApps de alta complexidade com **Angular**, **React** e **Canvas**, integrando pagamentos via **Stripe** e comunicação em tempo real com **Socket.io**.
-* **Ecossistema Fão:** Implementação de uma suite de 7 aplicações (Hub, Flow, Sales, etc.) utilizando **Vite**, **Tailwind** e **Docker** para garantir escalabilidade.
-* **Liderança Técnica:** Responsável pela arquitetura front-end e web design (Figma), assegurando a qualidade através de metodologias **Scrum/Agile**.
+| Projeto | Contributo | Tecnologias |
+| :-- | :-- | :-- |
+| **GRIP** (SRO / ROTAX) | WebApps de alta complexidade com pagamentos integrados e comunicação em tempo real | Angular · React · Canvas · Stripe · Socket.io |
+| **Ecossistema Fão** | Suite de 7 aplicações (Hub, Flow, Sales, entre outras) desenhada para escalar | React · Vite · Tailwind · Docker |
+| **Liderança técnica** | Arquitetura front-end, web design e garantia de qualidade em equipa ágil | Figma · Scrum / Agile |
 
----
+<br>
 
-## 🎓 Formação & Idiomas
-* **Desenvolvimento Web e Multimédia (DWM-PL)** | IPCA (2021-2023)
-* **STI2D (Sciences et technologies de l'industrie)** | Lyon, França
-* **Idiomas:** Português (B2) | Francês (B2) | Inglês (B1) 
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b949e" width="22" height="22" alt=""> Formação &amp; Idiomas
 
----
+<table>
+  <tr>
+    <th align="left" width="65%">Formação</th>
+    <th align="left" width="35%">Idiomas</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Desenvolvimento Web e Multimédia</b> (Pós-Laboral)<br>
+      <sub>IPCA · 2021 – 2023</sub>
+      <br><br>
+      <b>STI2D</b> — Sciences et Technologies de l'Industrie<br>
+      <sub>Lyon, França</sub>
+    </td>
+    <td valign="top">
+      Português &nbsp;<sub><code>B2</code></sub><br>
+      Francês &nbsp;<sub><code>B2</code></sub><br>
+      Inglês &nbsp;<sub><code>B1</code></sub>
+    </td>
+  </tr>
+</table>
 
-## 📊 Performance no GitHub
+<br>
+
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%238b949e" width="22" height="22" alt=""> Atividade no GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=franciscoIPCA&show_icons=true&theme=omni&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoIPCA&layout=compact&theme=omni&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=franciscoIPCA&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=franciscoIPCA&show_icons=true&hide_border=true&theme=default" alt="Estatísticas do GitHub">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoIPCA&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=0d1117">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoIPCA&layout=compact&langs_count=6&hide_border=true&theme=default" alt="Linguagens mais usadas">
+</picture>
+
 </div>
 
+<br>
+
 ---
 
 <div align="center">
-  <sub>"Clean code always looks like it was written by someone who cares."</sub>
+  <sub><i>"Clean code always looks like it was written by someone who cares."</i> — Michael Feathers</sub>
 </div>
